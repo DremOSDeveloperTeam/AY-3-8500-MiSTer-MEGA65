@@ -8,7 +8,8 @@
  * and to: Suverman, Erika, Ewen McNeill, Dylan Lipsitz, Ewen McNeill,
  * Alan Steremberg, and JM Blandin for supporting me on Patreon
  */
-`default_nettype none
+ //@TODO: Change to default_nettype none!
+`default_nettype wire
 
 module ay38500NTSC(
 	output pinRPout,
